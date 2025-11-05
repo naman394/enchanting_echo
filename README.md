@@ -35,10 +35,8 @@ enchanting_echo/
 ├── data/                      # Raw and processed datasets
 ├── notebooks/                 # Analysis notebooks
 ├── src/                       # Data processing, visualization, models
-├── docs/                      # Documentation (methodology, hypotheses, problem statement)
+├── docs/                      # Documentation (work plan, methodology, hypotheses, problem statement)
 ├── reports/                   # Findings and reports
-├── WORK_PLAN.md               # Team roles, timeline, evaluation criteria
-├── EVALUATION_CHECKLIST.md    # Quick reference for achieving maximum marks
 └── requirements.txt
 ```
 
@@ -49,8 +47,7 @@ enchanting_echo/
 - Regular progress updates and milestone tracking
 
 **📋 Documentation**:
-- [WORK_PLAN.md](WORK_PLAN.md) - Detailed roles, timeline, and evaluation criteria
-- [EVALUATION_CHECKLIST.md](EVALUATION_CHECKLIST.md) - Quick reference for maximum marks
+- [WORK_PLAN.md](docs/WORK_PLAN.md) - Detailed roles, timeline, and evaluation criteria
 
 ## Setup
 
