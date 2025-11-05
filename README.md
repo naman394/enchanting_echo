@@ -2,7 +2,7 @@
 
 Analysis of global air quality patterns using OpenAQ and World Bank datasets to identify pollution trends across regions, time periods, and socioeconomic conditions.
 
-**Evaluation Date**: November 5, 2025
+**Evaluation Date**: November 6, 2025
 
 ## Data Sources
 
@@ -32,18 +32,25 @@ Analysis of global air quality patterns using OpenAQ and World Bank datasets to 
 
 ```
 enchanting_echo/
-├── data/                 # Raw and processed datasets
-├── notebooks/            # Analysis notebooks
-├── src/                  # Data processing, visualization, models
-├── reports/              # Findings and reports
+├── data/                      # Raw and processed datasets
+├── notebooks/                 # Analysis notebooks
+├── src/                       # Data processing, visualization, models
+├── docs/                      # Documentation (methodology, hypotheses, problem statement)
+├── reports/                   # Findings and reports
+├── WORK_PLAN.md               # Team roles, timeline, evaluation criteria
+├── EVALUATION_CHECKLIST.md    # Quick reference for achieving maximum marks
 └── requirements.txt
 ```
 
 ## Team Workflow
 
 - Git version control with individual commits tracked
-- Clear role assignments and rotating leadership
+- Clear role assignments and rotating leadership (3 phases)
 - Regular progress updates and milestone tracking
+
+**📋 Documentation**:
+- [WORK_PLAN.md](WORK_PLAN.md) - Detailed roles, timeline, and evaluation criteria
+- [EVALUATION_CHECKLIST.md](EVALUATION_CHECKLIST.md) - Quick reference for maximum marks
 
 ## Setup
 
@@ -94,5 +101,6 @@ git push origin feature/your-feature-name
 | Date | Pushed By | Description |
 |------|-----------|-------------|
 | Nov 5, 2025 | naman394 | Initial project setup with README documentation |
+| Nov 5, 2025 | naman394 | Added comprehensive WORK_PLAN.md (3-phase evaluation, leadership rotation, detailed rubrics), complete directory structure (data/, docs/, notebooks/, src/, reports/) |
 
 ---
