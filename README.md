@@ -72,7 +72,10 @@ pip install pandas numpy matplotlib seaborn plotly scikit-learn jupyter
 
 ## Deliverables
 
-- [ ] Data cleaning pipeline
+- [x] Data cleaning pipeline (preprocessing complete - 17,622 cleaned records)
+- [x] Raw data collection (OpenAQ dataset - 61,178 records)
+- [x] Hypothesis formulation (Hypotheses2.pdf)
+- [x] Literature review (research.md with 5 key papers)
 - [ ] Interactive visualizations with year selection
 - [ ] 20-year pollution trend analysis
 - [ ] Correlation analysis (pollutants, GDP, health)
@@ -99,7 +102,18 @@ git push origin feature/your-feature-name
 | Date | Pushed By | Description |
 |------|-----------|-------------|
 | Nov 5, 2025 | naman394 | Initial project setup with README documentation |
-| Nov 5, 2025 | naman394 | Added comprehensive WORK_PLAN.md (3-phase evaluation, leadership rotation, detailed rubrics), complete directory structure with .gitkeep files |
-| Nov 6, 2025 | naman394 | Added research.md with literature review (5 key papers, theoretical frameworks, methodology implications) |
+| Nov 6, 2025 | naman394 | Project structure setup: WORK_PLAN.md with 3-phase evaluation, leadership rotation, detailed rubrics |
+| Nov 6, 2025 | NileshChakrabarty | Added initial hypothesis document (PDF) |
+| Nov 6, 2025 | he11OOwOr1d | Uploaded raw OpenAQ dataset (61,178 records) |
+| Nov 6, 2025 | he11OOwOr1d | Data preprocessing - identified missing values across all columns |
+| Nov 6, 2025 | he11OOwOr1d | Data cleaning - filled city missing values, dropped low-quality rows |
+| Nov 6, 2025 | he11OOwOr1d | Data cleaning - filled coordinate missing values (latitude/longitude) |
+| Nov 6, 2025 | he11OOwOr1d | Data cleaning - filled country label missing values |
+| Nov 6, 2025 | he11OOwOr1d | Outlier detection and handling across dataset |
+| Nov 6, 2025 | he11OOwOr1d | Final preprocessed dataset uploaded (17,622 cleaned records) |
+| Nov 6, 2025 | NileshChakrabarty | Updated hypothesis document (Hypotheses2.pdf) |
+| Nov 6, 2025 | naman394 | Moved WORK_PLAN.md to docs/ for better organization |
+| Nov 6, 2025 | naman394 | Added research.md with literature review (5 key papers, EKC framework, methodology) |
+| Nov 6, 2025 | naman394 | Merged all team contributions and pushed comprehensive documentation
 
 ---
