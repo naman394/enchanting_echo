@@ -4,9 +4,9 @@
 
 | Member | GitHub Username | Primary Responsibilities |
 |--------|----------------|-------------------------|
-| Navnit Naman | naman394 | Research Methodology, Presentation, Team Lead |
+| Navnit Naman | naman394 | Research Methodology, Presentation, Team Lead , Problem Understanding |
 | Nilesh Chakrabarty | NileshChakrabarty | Innovation in Hypotheses, EDA |
-| Nikhil Kumar | he11OOwOr1d | Problem Understanding, Data Pre-processing, Predictive/Descriptive Analysis |
+| Nikhil Kumar | he11OOwOr1d |  Data Pre-processing, Predictive/Descriptive Analysis |
 
 **Mentor**: Ashwin Tewary (ashwin-tewary)
 
