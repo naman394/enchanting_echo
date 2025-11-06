@@ -6,7 +6,7 @@ This document consolidates key literature and research findings that inform our 
 
 ---
 
-## Key Literature Summary
+## Key Literature Summaries
 
 | Theme | Key Findings / Insight | Source | Type | Link |
 |-------|----------------------|--------|------|------|
