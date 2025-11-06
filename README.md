@@ -48,6 +48,7 @@ enchanting_echo/
 
 **📋 Documentation**:
 - [WORK_PLAN.md](docs/WORK_PLAN.md) - Detailed roles, timeline, and evaluation criteria
+- [research.md](docs/research.md) - Literature review with key papers and theoretical frameworks
 
 ## Setup
 
@@ -98,6 +99,7 @@ git push origin feature/your-feature-name
 | Date | Pushed By | Description |
 |------|-----------|-------------|
 | Nov 5, 2025 | naman394 | Initial project setup with README documentation |
-| Nov 5, 2025 | naman394 | Added comprehensive WORK_PLAN.md (3-phase evaluation, leadership rotation, detailed rubrics), complete directory structure (data/, docs/, notebooks/, src/, reports/) |
+| Nov 5, 2025 | naman394 | Added comprehensive WORK_PLAN.md (3-phase evaluation, leadership rotation, detailed rubrics), complete directory structure with .gitkeep files |
+| Nov 6, 2025 | naman394 | Added research.md with literature review (5 key papers, theoretical frameworks, methodology implications) |
 
 ---
