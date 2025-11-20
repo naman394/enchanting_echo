@@ -2,12 +2,23 @@
 
 This directory contains project documentation:
 
+## Phase 1 Documents
 - `WORK_PLAN.md` - Team roles, timeline, leadership rotation, and evaluation criteria
 - `research.md` - Literature review with key papers and theoretical frameworks
+- `Hypotheses2.pdf` - Novel hypotheses document
 - `problem_statement.md` - Detailed problem articulation with theoretical foundation
-- `hypotheses.md` - Novel hypotheses (8-10) with justifications
-- `methodology.md` - Research methodology with literature review
+
+## Phase 2 Documents
+- `phase2_work_plan.md` - Work division and responsibilities for Phase 2
+- `phase2_methodology.md` - Comprehensive research methodology and workflow
+
+## Phase 3 Documents
+- `phase3_future_plan.md` - Visualization and presentation strategy for Phase 3
+
+## General
 - `decisions.md` - Log of important project decisions
 
-**Owner**: Phase 1 team (led by Navnit Naman)
+**Phase 1 Owner**: Navnit Naman  
+**Phase 2 Owner**: Nikhil Raj  
+**Phase 3 Owner**: Nilesh Chakrabarty
 

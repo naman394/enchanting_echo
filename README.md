@@ -47,8 +47,11 @@ enchanting_echo/
 - Regular progress updates and milestone tracking
 
 **📋 Documentation**:
-- [WORK_PLAN.md](docs/WORK_PLAN.md) - Detailed roles, timeline, and evaluation criteria
+- [WORK_PLAN.md](docs/WORK_PLAN.md) - Overall project plan with 3-phase structure
 - [research.md](docs/research.md) - Literature review with key papers and theoretical frameworks
+- [phase2_work_plan.md](docs/phase2_work_plan.md) - Phase 2 work division and team responsibilities
+- [phase2_methodology.md](docs/phase2_methodology.md) - Comprehensive research methodology and workflow
+- [phase3_future_plan.md](docs/phase3_future_plan.md) - Phase 3 visualization and presentation strategy
 
 ## Setup
 
@@ -114,6 +117,7 @@ git push origin feature/your-feature-name
 | Nov 6, 2025 | NileshChakrabarty | Updated hypothesis document (Hypotheses2.pdf) |
 | Nov 6, 2025 | naman394 | Moved WORK_PLAN.md to docs/ for better organization |
 | Nov 6, 2025 | naman394 | Added research.md with literature review (5 key papers, EKC framework, methodology) |
-| Nov 6, 2025 | naman394 | Merged all team contributions and pushed comprehensive documentation
+| Nov 6, 2025 | naman394 | Merged all team contributions and pushed comprehensive documentation |
+| Nov 6, 2025 | naman394 | Added Phase 2 work plan, methodology, and Phase 3 future plan documentation
 
 ---
