@@ -9,7 +9,6 @@
 - Design and document comprehensive research methodology
 - Literature review and theoretical framework validation
 - Methodology justification and adaptation strategy
-- Quality assurance of analytical approaches
 - Integration of findings across all work streams
 
 **Deliverables:**
@@ -24,7 +23,6 @@
 **Primary Focus: Predictive/Descriptive Analysis**
 
 **Responsibilities:**
-- Develop predictive models for air quality forecasting
 - Conduct sophisticated descriptive statistical analysis
 - Model selection, training, and validation
 - Performance evaluation and comparison
@@ -119,45 +117,3 @@
 - **Technical Discussions**: GitHub Issues and Pull Requests
 - **Quick Updates**: Team chat
 - **Detailed Reviews**: Weekly meetings with mentor
-
----
-
-## Quality Standards
-
-### Code Quality
-- All code must be well-commented
-- Follow PEP 8 style guidelines
-- Include docstrings for functions
-- Reproducible results (set random seeds)
-
-### Analysis Quality
-- All findings backed by statistical evidence
-- Multiple visualizations for key insights
-- Clear interpretation of results
-- Discussion of limitations
-
-### Documentation Quality
-- Clear markdown explanations in notebooks
-- Methodology justification documented
-- Assumptions explicitly stated
-- References to literature where applicable
-
----
-
-## Success Criteria for Phase 2
-
-- [ ] **EDA (20-25 marks):** Comprehensive analysis with novel visualizations
-- [ ] **Research Methodology (12-15 marks):** Rigorous, innovative, and well-justified
-- [ ] **Predictive/Descriptive Analysis (40-50 marks):** Sophisticated models with deep interpretation
-- [ ] **Consistency (8-10 marks):** Balanced git contributions from all members
-- [ ] All deliverables completed on time
-- [ ] Documentation is comprehensive and clear
-- [ ] Findings provide actionable insights
-
----
-
-**Phase Lead:** Nikhil Raj (he11OOwOr1d)  
-**Phase Duration:** Weeks 4-6  
-**Target Score:** 80-100/100 marks  
-**Last Updated:** November 6, 2025
-
